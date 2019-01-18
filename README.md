@@ -1,4 +1,4 @@
-# BDBKSpider
+# Baidu Baike Spider
 基于Python的百度百科爬虫
 
 ### 1.采用bkkey爬取百度百科词条
